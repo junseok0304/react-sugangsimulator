@@ -27,7 +27,7 @@ function App() {
     <footer>Modified Copyright ⓒ SungGongHoe Univ. All rights reserved.</footer>
     <h1>Hello World</h1>
     <h1>Hello World</h1>
-    <h1>Hello World</h1>
+    <h1>Hello World 테스트 빌드입니다.</h1>
     </div>
   );
 }
